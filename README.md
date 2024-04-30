@@ -1,4 +1,5 @@
-Restaurant Order Management System
+Restaurant Order Management System 🍽️ 
+
 
 This project implements a simple web-based order management system for a restaurant. It allows users to input orders for different tables and view them in real-time. Additionally, users can delete orders from each table.
 
