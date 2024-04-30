@@ -1,4 +1,7 @@
 Restaurant Order Management System
+
+
+
 This project is a simple web application for managing orders in a restaurant. It allows users to input the details of a dish order, such as the price, name of the dish, and table number, and displays the orders categorized by table number. Users can also delete orders from the system.
 
 Features
